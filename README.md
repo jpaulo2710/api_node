@@ -1,0 +1,1 @@
+### API criada para ser consumida no projeto em Angular (https://github.com/jpaulo2710/moments).
